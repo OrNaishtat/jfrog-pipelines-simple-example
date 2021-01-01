@@ -1,0 +1,3 @@
+myRepo:
+  gitProvider: second_attempt
+  path: https://github.com/OrNaishtat/jfrog-pipelines-simple-example
